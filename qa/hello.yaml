@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: hello
-        image: grantok/gitops:hellov1.1
+        image: grantok/gitops:hellov1.2
